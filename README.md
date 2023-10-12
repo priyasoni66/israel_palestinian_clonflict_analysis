@@ -1,7 +1,7 @@
 # israel_palestinian_conflict_analysis
 
 ## Project Overview
-This project analyzes a dataset documenting fatalities during the Israel-Palestine conflict from 2000 to 2023. By examining demographic factors, event details, injuries, and weapon usage, the analysis unveils significant patterns. The data provides insights into victim profiles, including age, gender, citizenship, and residence. .
+This project analyzes a dataset documenting fatalities during the Israel-Palestine conflict from 2000 to 2023. By examining demographic factors, event details, injuries, and weapon usage, the analysis unveils significant patterns. The data provides insights into victim profiles, including age, gender, citizenship, and residence. 
 
 ### Data Source
 The primary data used for this analysis is the "fatalities_isr_pse_conflict_2000_to_2023.csv" file, containing detailed  information about the individuals killed during the Israeli-Palestinian conflict since the second intifada, which began in September 2000.
